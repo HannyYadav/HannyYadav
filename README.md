@@ -19,25 +19,15 @@
 
 <br/>
 
-<img align="right" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="340" alt="coding gif"/>
-
 ### 👩‍💻 About Me
 
-```typescript
-const hanny = {
-  role     : "Full-Stack Software Engineer",
-  experience: "3+ years",
-  location : "India 🇮🇳",
-  stack    : ["React.js", "Node.js", "MongoDB", "JavaScript"],
-  aiml     : ["Python", "Scikit-learn", "Streamlit", "Google Gemini"],
-  focus    : ["Scalable Systems", "Clean Architecture", "Product Engineering"],
-  pronouns : "she/her",
-  building : "EcoLife360 — AI Sustainability Dashboard",
-  funFact  : "Built an AI assistant that speaks Hinglish 🌾"
-};
-```
-
-<br clear="right"/>
+- 🚀 **Full-Stack Software Engineer** with **3+ years** of experience in product engineering
+- 💻 I build scalable web apps using **React.js, Node.js, MongoDB & JavaScript**
+- 🤖 Passionate about **AI/ML** — I work with Python, Scikit-learn, Streamlit & Google Gemini
+- 🌾 Built **AgriSathi-AI** — an LLM-powered assistant that speaks Hindi & Hinglish for farmers
+- 🌱 Currently building **EcoLife360** — an AI sustainability & carbon footprint dashboard
+- 🎯 Focused on **clean architecture, scalable systems & impactful products**
+- 😄 Pronouns: **she/her** &nbsp;|&nbsp; 📍 India 🇮🇳
 
 ---
 
@@ -159,10 +149,6 @@ const hanny = {
 <br/>
 
 <img src="https://streak-stats.demolab.com?user=HannyYadav&theme=tokyonight&hide_border=true&cache_seconds=1800" />
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=HannyYadav&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=6" />
 
 </div>
 
