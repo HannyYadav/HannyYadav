@@ -143,12 +143,21 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=HannyYadav&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HannyYadav&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=HannyYadav&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" height="165"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HannyYadav&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="165"/>
 
-<br/>
+</div>
 
-<img src="https://streak-stats.demolab.com?user=HannyYadav&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+<div align="center">
+
+<img src="https://streak-stats.demolab.com/?user=HannyYadav&theme=tokyonight&hide_border=true" />
+
+</div>
+
+<div align="center">
+
+![HannyYadav's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=HannyYadav&theme=tokyo-night&hide_border=true)
 
 </div>
 
@@ -159,16 +168,6 @@
 <div align="center">
 
 <img src="https://leetcard.jacoblin.cool/Hannyyadav?theme=dark&font=JetBrains%20Mono&ext=heatmap&cache=1800" />
-
-</div>
-
----
-
-### 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=HannyYadav&bg_color=1a1b27&color=00d9a3&line=00d9a3&point=ffffff&area=true&hide_border=true" />
 
 </div>
 
