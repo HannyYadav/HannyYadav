@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d9a3,100:0d1117&height=120&section=header&text=&fontSize=0" width="100%"/>
+![header](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&pause=1000&color=00D9A3&center=true&vCenter=true&width=700&height=60&lines=Hey%2C+I'm+Hanny+Yadav+%F0%9F%91%8B;Full-Stack+Engineer+%7C+3%2B+Years;React+%E2%80%A2+Node+%E2%80%A2+MongoDB+%E2%80%A2+System+Design;1500%2B+DSA+Problems+Solved+%F0%9F%94%A5" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&pause=1000&color=00D9A3&center=true&vCenter=true&width=700&height=60&lines=Hey%2C+I'm+Hanny+Yadav+%F0%9F%91%8B;Full-Stack+Engineer+%7C+3%2B+Years;React+%E2%80%A2+Node+%E2%80%A2+MongoDB+%E2%80%A2+System+Design;AI+%7C+ML+%7C+NLP+Builder+%F0%9F%A4%96" alt="Typing SVG" />
 
 <br/>
 
@@ -13,25 +13,27 @@
 
 <img src="https://komarev.com/ghpvc/?username=HannyYadav&color=00d9a3&style=flat-square&label=Profile+Views" />
 
+![header](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
+
 </div>
 
----
+<br/>
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="380" alt="coding gif"/>
+<img align="right" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="340" alt="coding gif"/>
 
 ### 👩‍💻 About Me
 
 ```typescript
 const hanny = {
-  role: "Full-Stack Software Engineer",
+  role     : "Full-Stack Software Engineer",
   experience: "3+ years",
-  location: "India 🇮🇳",
-  stack: ["React.js", "Node.js", "MongoDB", "JavaScript"],
-  focus: ["Scalable Systems", "Clean Architecture", "Product Engineering"],
-  dsa: "1500+ problems solved",
-  pronouns: "she/her",
-  currentlyBuilding: "EcoLife360 — AI Sustainability Dashboard",
-  funFact: "I built an AI assistant that speaks Hinglish 🌾"
+  location : "India 🇮🇳",
+  stack    : ["React.js", "Node.js", "MongoDB", "JavaScript"],
+  aiml     : ["Python", "Scikit-learn", "Streamlit", "Google Gemini"],
+  focus    : ["Scalable Systems", "Clean Architecture", "Product Engineering"],
+  pronouns : "she/her",
+  building : "EcoLife360 — AI Sustainability Dashboard",
+  funFact  : "Built an AI assistant that speaks Hinglish 🌾"
 };
 ```
 
@@ -63,7 +65,7 @@ const hanny = {
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Google Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
-**Tools & Platforms**
+**Tools**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -81,7 +83,7 @@ const hanny = {
 <td width="50%">
 
 **🌱 EcoLife360**
-> AI-powered sustainability dashboard — track carbon footprint across transport & home usage with NLP route planning, ML predictions, and an EcoBot chatbot powered by Google Gemini.
+> AI-powered sustainability dashboard — carbon footprint tracking with NLP route planning, ML predictions & Google Gemini EcoBot.
 
 `JavaScript` `AI` `NLP` `Google Gemini`
 
@@ -91,7 +93,7 @@ const hanny = {
 <td width="50%">
 
 **🌾 AgriSathi-AI**
-> RAG + fine-tuned LLM farming assistant delivering smart, localized agricultural insights in Hindi & Hinglish — helping farmers make better decisions with confidence.
+> RAG + fine-tuned LLM farming assistant delivering localized agricultural insights in Hindi & Hinglish for farmers.
 
 `HTML` `LLM` `RAG` `MIT License`
 
@@ -103,7 +105,7 @@ const hanny = {
 <td width="50%">
 
 **⚙️ Machine Failure Prediction**
-> Real-time machine failure detection system using Python, Scikit-learn, Streamlit & MongoDB — detects whether a machine is safe or at risk based on live inputs.
+> Real-time failure detection system — detects whether a machine is safe or at risk based on live inputs.
 
 `Python` `Scikit-learn` `Streamlit` `MongoDB`
 
@@ -113,11 +115,33 @@ const hanny = {
 <td width="50%">
 
 **🤖 HinglishChatbot**
-> A chatbot that understands and responds naturally in Hinglish — bridging the language gap for India's next billion users.
+> Chatbot that understands and responds naturally in Hinglish — bridging the language gap for India's next billion users.
 
-`NLP` `Python` `Conversational AI`
+`Python` `NLP` `Conversational AI`
 
 [![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/HannyYadav/HinglishChatbot)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**📈 Stock Price Analysis — MCX**
+> Analysis of stock price movements in the Indian Commodity Market using Python.
+
+`Python` `Data Analysis` `Finance`
+
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/HannyYadav/Analysis-of-Stock-Price-Movements-in-the-Indian-Commodity-Market-MCX-)
+
+</td>
+<td width="50%">
+
+**🖼️ PhotoGalleryApp**
+> A clean and modern photo gallery mobile application.
+
+`Mobile` `UI/UX`
+
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/HannyYadav/PhotoGalleryApp)
 
 </td>
 </tr>
@@ -166,7 +190,7 @@ const hanny = {
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d9a3,100:0d1117&height=80&section=footer" width="100%"/>
+![footer](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 *"Building tech that speaks your language — literally."* 🌏
 
