@@ -21,7 +21,7 @@
 
 ### 👩‍💻 About Me
 
-- 🚀 **Full-Stack Software Engineer** with **3+ years** of experience in product engineering
+- 🚀 **Data Science & AI student** with business development internship experience, interested in B2B sales and enterprise AI
 - 💻 I build scalable web apps using **React.js, Node.js, MongoDB & JavaScript**
 - 🤖 Passionate about **AI/ML** — I work with Python, Scikit-learn, Streamlit & Google Gemini
 - 🌾 Built **AgriSathi-AI** — an LLM-powered assistant that speaks Hindi & Hinglish for farmers
