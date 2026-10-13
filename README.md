@@ -2,7 +2,7 @@
 
 ![header](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&pause=1000&color=00D9A3&center=true&vCenter=true&width=700&height=60&lines=Hey%2C+I'm+Hanny+Yadav+%F0%9F%91%8B;Full-Stack+Engineer+%7C+3%2B+Years;React+%E2%80%A2+Node+%E2%80%A2+MongoDB+%E2%80%A2+System+Design;AI+%7C+ML+%7C+NLP+Builder+%F0%9F%A4%96" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&pause=1000&color=00D9A3&center=true&vCenter=true&width=700&height=60&lines=Hey%2C+I'm+Hanny+Yadav+%F0%9F%91%8B;B.Tech CSE (Data Science & AI) student at BML Munjal University | AI/ML and full-stack projects" alt="Typing SVG" />
 
 <br/>
 
